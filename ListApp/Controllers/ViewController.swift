@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         
     @IBOutlet weak var tableView:UITableView!
     
-    
+    //data
     
     var data = [NSManagedObject]()
     
